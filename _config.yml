@@ -21,12 +21,7 @@
 title: Cache Aware Prefetching in OpenCilk
 email: xmz@andrew.cmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Our objective is to augment the current OpenCilk framework by integrating memory 
-  optimizations into the parallel-for (referred to as "Do-all loop") code generation. 
-  OpenCilk, an open-source parallel programming library, has its origins in Cilk, a 
-  language extension to C designed to simplify parallel programming. Our project is 
-  committed to developing and rigorously evaluating two memory-based optimizations 
-  for parallel-for code generation within the OpenCilk framework.
+Ziqi Liu <ziqil2@andrew.cmu.edu>, Xinyu Zhang <xmz@andrew.cmu.edu>
 baseurl: "/f23-15745-final-project" # the subpath of your site, e.g. /blog
 url: "https://xmichellez.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
