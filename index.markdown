@@ -5,15 +5,11 @@
 layout: default 
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Project Proposal:
+[here](https://docs.google.com/document/d/1nVyRtqquyuxcUuS3wYoTAkXMOp8lEsZ0ul36lROG1nU/edit?usp=sharing)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Milestone Report:
+[here](https://docs.google.com/document/d/1vS4VDoELZr3DO6feiS-x7z2b7K6LZ8NLsdyJkQlJAkk/edit?usp=sharing)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Final Report:
+[here](https://docs.google.com/document/d/1SwZDwTJ4zf48DMJoi0cHwlneLmlX8ppv_eV_r3oj9yU/edit?usp=sharing)
