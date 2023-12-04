@@ -21,7 +21,7 @@
 title: Cache Aware Prefetching in OpenCilk
 email: xmz@andrew.cmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Ziqi Liu <ziqil2@andrew.cmu.edu>, Xinyu Zhang <xmz@andrew.cmu.edu>
+  Ziqi Liu (ziqil2@andrew.cmu.edu), Xinyu Zhang (xmz@andrew.cmu.edu)
 baseurl: "/f23-15745-final-project" # the subpath of your site, e.g. /blog
 url: "https://xmichellez.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
