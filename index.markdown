@@ -6,7 +6,7 @@ layout: default
 ---
 # Project Description and Links to Relevant Documents
 
-Our objective is to augment the current OpenCilk framework by integrating memory optimizations into the parallel-for (referred to as "Do-all loop") code generation. OpenCilk, an open-source parallel programming library, has its origins in Cilk, a language extension to C designed to simplify parallel programming. Our project is committed to developing and rigorously evaluating two memory-based optimizations for parallel-for code generation within the OpenCilk framework.
+Our objective is to augment the current OpenCilk framework by integrating memory optimizations into the parallel-for (referred to as "Do-all loop") code generation. OpenCilk, an open-source parallel programming library, has its origins in Cilk, a language extension to C designed to simplify parallel programming.
 
 Project Proposal:
 [here](https://docs.google.com/document/d/1nVyRtqquyuxcUuS3wYoTAkXMOp8lEsZ0ul36lROG1nU/edit?usp=sharing)
